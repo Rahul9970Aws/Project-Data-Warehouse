@@ -74,6 +74,7 @@ SONG_DATA='s3://udacity-dend/song_data'
 
 ```
 
+---## additionall i tried system manager parameter store to store the database credential ##
 #### Create tables
 
     $ python create_tables.py
