@@ -75,7 +75,8 @@ SONG_DATA='s3://udacity-dend/song_data'
 ```
 
 ---## additionally i tried system manager parameter store to store the database credential and written the code in aws lambda in python and pandas.
-<img width="659" height="380" alt="image" src="https://github.com/user-attachments/assets/68fb5b49-bc03-440b-97df-a82b480ca925" />
+<img width="662" height="335" alt="image" src="https://github.com/user-attachments/assets/2ff00abd-1a6f-497c-ae1c-603b31edcf78" />
+
 
 #### Create tables
 
